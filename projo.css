@@ -81,6 +81,14 @@ h4:hover {
     
 }
 
+.three {
+    background-image: url(https://cdn.wedevs.com/uploads/2017/08/wdevs-wp-readme-generator.png);
+    height: 500px;
+    width: 500px;
+    margin-left: 390px;
+}
+
+
 .code {
     color: #f1f1f1;
     font-size: 40px;
